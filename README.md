@@ -1,8 +1,8 @@
 <div align="center">
   <p style="background-color: #000; color: #00FF00; padding: 10px; border-radius: 5px;">
-    <strong>Wake up, developer.</strong><br>
+    <strong>Wake up....</strong><br>
     The Matrix has you...<br>
-    Follow the white GitHub.
+    Follow the useyourcode
   </p>
 </div>
 
