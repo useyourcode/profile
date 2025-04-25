@@ -1,5 +1,8 @@
 ![bio](profile.gif)
-<h1 align="center">👋 Hello!</h1>
+> Wake up, developer.  
+> The Matrix has you...  
+> Follow the white GitHub.
+
 
 ## About me
 
