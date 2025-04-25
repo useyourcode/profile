@@ -37,10 +37,10 @@ I'm a backend developer from Russia, Moscow working at Mobi.Money.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-### Project Management & Design
+### TaskTrackers
 ![Atlassian Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Kaiten](https://img.shields.io/badge/Kaiten-4B4BFB?style=for-the-badge&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Bitrix24](https://img.shields.io/badge/Bitrix24-24A3D8?style=for-the-badge&logo=bitrix24&logoColor=white)
 
@@ -51,9 +51,7 @@ I'm a backend developer from Russia, Moscow working at Mobi.Money.
 
 ### Software
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
-![NinjaOne](https://img.shields.io/badge/NinjaOne-53B1FD?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
 ## ✨ GitHub stats
