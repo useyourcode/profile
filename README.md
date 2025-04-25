@@ -1,1 +1,2 @@
-# profile
+
+![bio](profile.gif)
