@@ -52,6 +52,6 @@ I'm a backend developer from Russia, Moscow working at Mobi.Money.
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useyourcode&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=useyourcode&show_icons=true&theme=dark" />
 </p>
