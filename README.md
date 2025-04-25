@@ -52,7 +52,3 @@ I'm a backend developer from Russia, Moscow working at Mobi.Money.
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=useyourcode&show_icons=true&theme=dark&rank_icon=github" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=useyourcode&show=reviews&theme=dark&custom_title=Grade%3A%20B%2B" />
-</p>
