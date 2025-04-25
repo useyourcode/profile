@@ -48,17 +48,11 @@ I'm a backend developer from Russia, Moscow working at Mobi.Money.
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useyourcode&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Aleksandrov Danil’s GitHub Stats
-- ⭐ Total Stars Earned: `271`
-- 🔁 Total Commits (2025): `421`
-- ✅ Total PRs: `13`
-- 🐛 Total Issues: `11`
-- 📆 Contributed to (last year): `6`
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show_icons=true&theme=dark&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=useyourcode&show_icons=true&theme=dark&rank_icon=github" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show=reviews&theme=dark&custom_title=Grade%3A%20B%2B" />
+  <img src="https://github-readme-stats.vercel.app/api?username=useyourcode&show=reviews&theme=dark&custom_title=Grade%3A%20B%2B" />
 </p>
