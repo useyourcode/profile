@@ -11,14 +11,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]((https://t.me/useyourhead))
 
-I'm a backend developer from Russia, Moscow working at .  
-I'm interested in web development and games. Also, I hate JavaScript 😅
-
----
-
-## 🌐 Visit my website
-
-**[BaggerFast’s docs](https://yourwebsite.com)** – Here I post helpful IT manuals. They can be used as references
+I'm a backend developer from Russia, Moscow working at Mobi.Money.  
 
 ---
 
@@ -53,7 +46,7 @@ I'm interested in web development and games. Also, I hate JavaScript 😅
 ## ✨ GitHub stats
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useyourcode&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Aleksandrov Danil’s GitHub Stats
 - ⭐ Total Stars Earned: `271`
