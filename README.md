@@ -1,8 +1,8 @@
-![bio](profile.gif)
 > Wake up, developer.  
 > The Matrix has you...  
 > Follow the white GitHub.
 
+![bio](profile.gif)
 
 ## About me
 
