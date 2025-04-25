@@ -1,17 +1,17 @@
 <h1 align="center">👋 Hello!</h1>
+![bio](profile.gif)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show_icons=true&theme=dark" />
 </p>
-![bio](profile.gif)
+
 
 
 
 ## About me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your_channel)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]((https://t.me/useyourhead))
 
-I'm a backend developer from Russia, working at [VladStandard](https://vladstandard.ru) / [Elikor](https://elikor.com).  
+I'm a backend developer from Russia, Moscow working at .  
 I'm interested in web development and games. Also, I hate JavaScript 😅
 
 ---
